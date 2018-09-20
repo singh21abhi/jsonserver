@@ -127,7 +127,75 @@
             ],
             "latitude": 35.727985,
             "longitude": -78.797594
-      }
-      
+      },
+      {
+            "id": 8,
+            "firstName": "Heedy",
+            "lastName": "Wahlin",
+            "gender": "female",
+            "address": "4651 Tuvo St.",
+            "city": "Anaheim",
+            "state": {
+                "abbreviation": "CA",
+                "name": "California"
+            },
+            "orders": [
+                {"productName": "Saddle", "itemCost": 599.99},
+                {"productName": "Riding cap", "itemCost": 79.99}
+            ],
+            "latitude": 33.809898,
+            "longitude": -117.918757
+      },
+      {
+            "id": 9,
+            "firstName": "John",
+            "lastName": "Papa",
+            "gender": "male",
+            "address": "66 Ray St.",
+            "city": " Orlando",
+            "state": {
+                "abbreviation": "FL",
+                "name": "Florida"
+            },
+            "orders": [
+                {"productName": "Baseball", "itemCost": 9.99},
+                {"productName": "Bat", "itemCost": 19.99}
+            ],
+            "latitude": 28.384238,
+            "longitude": -81.564103
+      },
+      {
+            "id": 10,
+            "firstName": "Tonya",
+            "lastName": "Smith",
+            "gender": "female",
+            "address": "1455 Chandler Blvd.",
+            "city": " Atlanta",
+            "state": {
+                "abbreviation": "GA",
+                "name": "Georgia"
+            },
+            "orders": [
+                {"productName": "Surfboard", "itemCost": 299.99},
+                {"productName": "Wax", "itemCost": 5.99},
+                {"productName": "Shark Repellent", "itemCost": 7.99}
+            ],
+            "latitude": 33.762297, 
+            "longitude": -84.392953
+      },
+      {
+            "id": 11,
+            "firstName": "ward",
+            "lastName": "bell",
+            "gender": "male",
+            "address": "888 Central St.",
+            "city": "Los Angeles",
+            "state": {
+                "abbreviation": "CA",
+                "name": "California"
+            },
+            "latitude": 34.042552,
+            "longitude": -118.266429
+      }   
     ]
 }
