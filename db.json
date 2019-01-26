@@ -3,7 +3,7 @@
     {
     "empCode":"emp101",
     "name":"Alex",
-    "gender:":"Male",
+    "gender":"Male",
     "annualSalary": "567899",
     "dateOfBirth": "11/11/1991",
     "phoneNumber":"408-1234567",
@@ -12,7 +12,7 @@
     {
     "empCode":"emp102",
     "name":"Tom",
-    "gender:":"Male",
+    "gender":"Male",
     "annualSalary": "767899",
     "dateOfBirth": "11/11/1991",
     "phoneNumber":"408-1234567",
@@ -21,7 +21,7 @@
     {
     "empCode":"emp103",
     "name":"Guru",
-    "gender:":"Male",
+    "gender":"Male",
     "annualSalary": "567899",
     "dateOfBirth": "11/11/1991",
     "phoneNumber":"408-2222222",
@@ -30,7 +30,7 @@
     {
         "empCode":"emp104",
         "name":"Nancy",
-        "gender:":"Male",
+        "gender":"Male",
         "annualSalary": "567899",
         "dateOfBirth": "11/11/1991",
         "phoneNumber":"408-1234567",
@@ -39,7 +39,7 @@
     {
         "empCode":"emp105",
         "name":"Steave",
-        "gender:":"Male",
+        "gender":"Male",
         "annualSalary": "567899",
         "dateOfBirth": "11/11/1991",
         "phoneNumber":"408-1234567",
@@ -48,7 +48,7 @@
     {
         "empCode":"emp106",
         "name":"Mary",
-        "gender:":"Female",
+        "gender":"Female",
         "annualSalary": "567899",
         "dateOfBirth": "11/11/1991",
         "phoneNumber":"408-1234567",
@@ -57,7 +57,7 @@
     {
         "empCode":"emp107",
         "name":"Mary2",
-        "gender:":"Female",
+        "gender":"Female",
         "annualSalary": "567899",
         "dateOfBirth": "11/11/1991",
         "phoneNumber":"408-1234567",
